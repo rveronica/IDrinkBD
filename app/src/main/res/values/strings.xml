@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IDrink</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo">Logo</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Snacks</item>
+        <item>Ingredients</item>
+    </string-array>
+    <string name="title_activity_drink_category">DrinkCategoryActivity</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+    <string name="shopping_list">Add to shopping list</string>
+    <string name="search_ingredients">Search cocktails by ingredients</string>
+
+
+</resources>
