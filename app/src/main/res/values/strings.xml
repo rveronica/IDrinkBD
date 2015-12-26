@@ -7,13 +7,18 @@
 
     <string-array name="options">
         <item>Drinks</item>
-        <item>Snacks</item>
         <item>Ingredients</item>
+        <item>Favorite drinks</item>
+        <item>Shopping List</item>
     </string-array>
-    <string name="title_activity_drink_category">DrinkCategoryActivity</string>
-    <string name="title_activity_drink">DrinkActivity</string>
-    <string name="shopping_list">Add to shopping list</string>
-    <string name="search_ingredients">Search cocktails by ingredients</string>
+    <string name="title_activity_drink_category">DrinkCategory</string>
+    <string name="title_activity_drink">Drink</string>
+    <string name="title_activity_shopping">ShoppingList</string>
+    <string name="shopping_list">Shopping list</string>
+    <string name="search_ingredients">Search cocktails</string>
+    <string name="favorite">Favorite</string>
+    <string name="btn_shopping">Clear selected</string>
+    <string name="btn_clear">Clear all</string>
 
 
 </resources>

@@ -24,6 +24,10 @@
             android:name="com.hfad.idrinkbd.DrinkActivity"
             android:label="@string/title_activity_drink" >
         </activity>
+        <activity
+            android:name="com.hfad.idrinkbd.ShoppingActivity"
+            android:label="@string/title_activity_shopping" >
+        </activity>
     </application>
 
 </manifest>

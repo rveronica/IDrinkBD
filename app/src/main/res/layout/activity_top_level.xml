@@ -6,8 +6,9 @@
     tools:context=".TopLevelActivity">
 
     <ImageView
-        android:layout_width="200dp"
-        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
         android:src="@drawable/logo"
         android:contentDescription="@string/logo"/>
 
@@ -15,10 +16,10 @@
         android:id="@+id/list_options"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:paddingTop="@dimen/page_margin"
+        android:paddingLeft="@dimen/page_margin"
+        android:paddingRight="@dimen/page_margin"
         android:entries="@array/options">
-
     </ListView>
-
-
 
 </LinearLayout>
